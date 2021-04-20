@@ -9,6 +9,7 @@
 [<img align="left" alt="Pineman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+### Github Stats
 <br />
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Pineman420&show_icons=true&theme=dark"></p>
