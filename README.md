@@ -12,8 +12,8 @@
 
 ### Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Pineman420&show_icons=true&theme=dark"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineman420&layout=compact&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Pineman834&show_icons=true&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineman834&layout=compact&theme=dark"></p>
 
 [website]: http://pinehack.tech
 [twitter]: https://twitter.com/Pineman834
