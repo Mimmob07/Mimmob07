@@ -12,6 +12,7 @@
 
 ### Github Stats
 
+![](https://komarev.com/ghpvc/?username=KazUpTV&color=blue)
 <p><img src="https://github-readme-stats.vercel.app/api?username=Pineman834&show_icons=true&theme=dark"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineman834&layout=compact&theme=dark"></p>
 
