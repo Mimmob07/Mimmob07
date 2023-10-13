@@ -13,8 +13,8 @@
 ### Github Stats
 
 ![](https://komarev.com/ghpvc/?username=KazUpTV&color=blue)
-<p><img src="https://github-readme-stats.vercel.app/api?username=Pineman834&show_icons=true&theme=dark"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineman834&layout=compact&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Mimmob07&show_icons=true&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimmob07&layout=compact&theme=dark"></p>
 
 <p><figure><embed src="https://wakatime.com/share/@9c4604fa-4c0b-495e-884c-a8c2c5085649/4066471c-e531-4769-ae1d-48e1f07d54cd.svg"></embed></figure></p>
 <p><figure><embed src="https://wakatime.com/share/@9c4604fa-4c0b-495e-884c-a8c2c5085649/626759db-2bd0-46fb-a3ca-b9db9c718380.svg"></embed></figure></p>
