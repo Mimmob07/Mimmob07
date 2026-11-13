@@ -28,8 +28,8 @@
 <td width="33%" valign="top">
 
 #### 🛠️ Systems & tools
-- **iPod Connection Utility**: 8K lines of Rust, ARM64 Linux releases, 200 tests
-- **Slides to reMarkable**: CI pipeline turning lecture slides into circuit worksheets
+- [**iPod Connection Utility**](https://github.com/Mimmob07/ipod_connection_utility): 8K lines of Rust, ARM64 Linux releases, 200 tests
+- [**Slides to reMarkable**](https://github.com/Mimmob07/slides-to-remarkable-public): CI pipeline turning lecture slides into circuit worksheets
 - [**Neural-network**](https://github.com/Mimmob07/Neural-network): MNIST net and linear algebra library from scratch in Rust
 
 </td>
