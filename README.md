@@ -12,7 +12,7 @@
 <td width="33%" valign="top">
 
 #### 🤖 Robot software
-- **MARC**: C++ drivetrain control for a 4-omniwheel holonomic drive
+- **MARC**: C++ drivetrain control for a 4-omniwheel holonomic drive; remote flashing via robot Pi Zero Ws on a Pi 5 access point, reached over Tailscale
 - **MAAV**: OpenCV object detection on NVIDIA Jetson for in-flight obstacle avoidance
 - **FTC**: lead software developer, Nest+m Robotics, 2024–25
 
@@ -22,7 +22,6 @@
 #### 🔌 Embedded & hardware
 - [**star-destroyer**](https://github.com/Mimmob07/star-destroyer): Rust web server on an ESP32 that drives LEDs
 - [**Sweep-KB**](https://github.com/Mimmob07/Sweep-KB): my build of the Ferris Sweep split keyboard, [ZMK firmware config](https://github.com/Mimmob07/zmk-config)
-- **MARC**: wireless firmware flashing over a Tailscale network of Pi Zero Ws on each robot and a central Pi 5
 - Model rockets designed in OpenRocket, Toulouse 2024
 
 </td>
