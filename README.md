@@ -22,6 +22,7 @@
 #### 🔌 Embedded & hardware
 - [**star-destroyer**](https://github.com/Mimmob07/star-destroyer): Rust web server on an ESP32 that drives LEDs
 - [**Sweep-KB**](https://github.com/Mimmob07/Sweep-KB): my build of the Ferris Sweep split keyboard, [ZMK firmware config](https://github.com/Mimmob07/zmk-config)
+- **MARC**: wireless firmware flashing over a Tailscale network of Pi Zero Ws on each robot and a central Pi 5
 - Model rockets designed in OpenRocket, Toulouse 2024
 
 </td>
@@ -38,4 +39,4 @@
 
 **Toolbox:** `C++` `Rust` `Python` `C` `Go` · `Linux` `NVIDIA Jetson` `ESP32` `Raspberry Pi` `Arduino` · `OpenCV` `NumPy` `SciPy` `GitHub Actions`
 
-<sub>B.S.E. (intended Robotics), University of Michigan, May 2029 · GPA 3.87 · Dean's List · Branstrom Freshman Prize</sub>
+<sub>B.S.E. (intended Robotics), University of Michigan, May 2028 · GPA 3.87 · Dean's List · Branstrom Freshman Prize</sub>
